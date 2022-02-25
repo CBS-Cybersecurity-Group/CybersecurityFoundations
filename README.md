@@ -21,18 +21,18 @@ Modules 4 and 5 (the most technical) require access to a computer with unix like
 
 Below is a list of modules included in this course.
 
-## [01 Threat Landscape](01_ThreatLandscape/README.md)
+## [01 Threat Landscape](01_ThreatLandscape/)
 
 This module introduces the students to various threat actors, and common methods threat actors employ to gain access.
 
-## [02 Computer Networks](02_ComputerNetworks/README.md)
+## [02 Computer Networks](02_ComputerNetworks/)
 
 This module introduces students to TCP/IP protocol stack and routing for the internet. We recommend two class sessions be dedicated to this module.
 
-## [04 Operating Systems and Commandline](04_OperatingSystemsAndCommandline/README.md)
+## [04 Operating Systems and Commandline](04_OperatingSystemsAndCommandline/)
 
 This module introduces the students to the unix command line and shell scripting.
 
-## [06 Cryptography](06_Cryptography/README.md)
+## [06 Cryptography](06_Cryptography/)
 
 This module introduces the students to cryptography and how it can be used to achieve authentication, confidentiality, and integrity online.
