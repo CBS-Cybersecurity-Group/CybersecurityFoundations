@@ -2,7 +2,7 @@
 title: "Cryptography Game"
 subtitle: "Teacher's Handbook"
 author: "Sippo Rossi and Irfan Kanat"
-date: "28/06/2021"
+date: "2023/05/26"
 output: pdf_document
 titlepage: true
 titlepage-rule-color: "360049"

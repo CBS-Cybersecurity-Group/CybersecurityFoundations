@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Foundations"
 author: "Irfan Kanat"
-date: "2022-02-21"
+date: "2023-05-26"
 output: pdf_document
 titlepage: true
 titlepage-rule-color: "360049"
